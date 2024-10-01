@@ -1,0 +1,15 @@
+C:\Users\guita\OneDrive\Desktop\C# projects\introC#\bin\Debug\net8.0\introC#.exe
+C:\Users\guita\OneDrive\Desktop\C# projects\introC#\bin\Debug\net8.0\introC#.deps.json
+C:\Users\guita\OneDrive\Desktop\C# projects\introC#\bin\Debug\net8.0\introC#.runtimeconfig.json
+C:\Users\guita\OneDrive\Desktop\C# projects\introC#\bin\Debug\net8.0\introC#.dll
+C:\Users\guita\OneDrive\Desktop\C# projects\introC#\bin\Debug\net8.0\introC#.pdb
+C:\Users\guita\OneDrive\Desktop\C# projects\introC#\obj\Debug\net8.0\introC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guita\OneDrive\Desktop\C# projects\introC#\obj\Debug\net8.0\introC#.AssemblyInfoInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# projects\introC#\obj\Debug\net8.0\introC#.AssemblyInfo.cs
+C:\Users\guita\OneDrive\Desktop\C# projects\introC#\obj\Debug\net8.0\introC#.csproj.CoreCompileInputs.cache
+C:\Users\guita\OneDrive\Desktop\C# projects\introC#\obj\Debug\net8.0\introC#.sourcelink.json
+C:\Users\guita\OneDrive\Desktop\C# projects\introC#\obj\Debug\net8.0\introC#.dll
+C:\Users\guita\OneDrive\Desktop\C# projects\introC#\obj\Debug\net8.0\refint\introC#.dll
+C:\Users\guita\OneDrive\Desktop\C# projects\introC#\obj\Debug\net8.0\introC#.pdb
+C:\Users\guita\OneDrive\Desktop\C# projects\introC#\obj\Debug\net8.0\introC#.genruntimeconfig.cache
+C:\Users\guita\OneDrive\Desktop\C# projects\introC#\obj\Debug\net8.0\ref\introC#.dll
